@@ -1,6 +1,6 @@
 sudo apt-get remove xorg
 #cette commande retire totalement l'interface graphique de la configuration
-Lamz82%PsM
-Mgg454%sd%hh
-#mdp de nouvelutilisateur
-echo "nouvelutilisateur    ALL=(ALL:ALL) ALL" >> /etc/sudoers 
+Lamz82%PsM mot de passe de utilisateur1
+Mgg454%sd%hh mot de passe du root (su)
+zbejLzmek6264 mot de passe de utilisateur3
+ 
