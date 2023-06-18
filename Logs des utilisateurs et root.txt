@@ -1,5 +1,4 @@
-sudo apt-get remove xorg
-#cette commande retire totalement l'interface graphique de la configuration
+Voici les logs de mes utilisateurs et de mon root.
 Lamz82%PsM mot de passe de utilisateur1
 Mgg454%sd%hh mot de passe du root (su)
 zbejLzmek6264 mot de passe de utilisateur3
